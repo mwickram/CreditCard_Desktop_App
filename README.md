@@ -1,1 +1,1 @@
-# CreditCard_Desktop_App
+# CreditCard_Desktop_App: Credit Card Simulator 
